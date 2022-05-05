@@ -1,4 +1,4 @@
-### Olá eu sou o Guilherme Motta, acadêmico de Análise e Desenvolvimento de Sistemas Ⓜ️💻
+### Olá! Me chamo Guilherme Motta e sou acadêmico de Análise e Desenvolvimento de Sistemas Ⓜ️💻
 
 <div align="left">
   <a href="https://github.com/gui-motta">
